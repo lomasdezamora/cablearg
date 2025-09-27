@@ -145,7 +145,7 @@ http://190.60.37.154:45000/play/a04m/index.m3u8
 http://200.80.230.123:8000/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNT.png" audio-track="spa" group-title="Entretenimiento", TNT
-http://200.80.230.123:8000/play/a07d/index.m3u8
+http://138.121.114.86:8000/play/a0d4/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSeriesSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNTSeries.png" audio-track="spa" group-title="Entretenimiento", TNT Series
 http://200.80.230.123:8000/play/a07e/index.m3u8
