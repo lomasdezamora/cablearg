@@ -445,7 +445,7 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/rai@2x.png" group-title="Internacionales", RAI
-http://200.80.230.123:8000/play/a02p/index.m3u8
+http://138.121.114.86:8000/play/a06u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpSI5D9txUQlXVE0jnNLq48m5QVxeEdBQFJg&s" group-title="Internacionales", TV Chile
 http://207.248.2.105:3200/play/a09c/index.m3u8
