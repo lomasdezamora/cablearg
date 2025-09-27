@@ -136,7 +136,7 @@ http://200.80.230.123:8000/play/a079/index.m3u8
 http://200.80.230.123:8000/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/adults.png"group-title="Entretenimiento", Adult Swin
-http://45.228.234.133:8000/play/a05v/index.m3u8
+http://138.121.114.86:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#sony-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Sony.png" audio-track="spa" group-title="Entretenimiento", Sony Channel
 http://190.60.37.154:45000/play/a04m/index.m3u8
