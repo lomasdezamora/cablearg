@@ -170,7 +170,7 @@ http://200.80.230.123:8000/play/a07b/index.m3u8
 http://200.80.230.123:8000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1Xi29R82K8IWwZlBPRdGMz/209d344e76cd15a2ad8031892f9715b5/49_TNTHD.png?fm=webp&q=80" group-title="Entretenimiento" , TNT HD
-http://200.80.230.123:8000/play/a07d/index.m3u8
+http://138.121.114.86:8000/play/a0d4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7ELLroSkVJCu1mlad72bNT/0d38b46c9d952bce0ddbc02b46119d40/50_TNTSeries.png?fm=webp&q=80" group-title="Entretenimiento" , TNT SERIES HD
 http://200.80.230.123:8000/play/a07e/index.m3u8
