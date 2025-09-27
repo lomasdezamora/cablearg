@@ -233,7 +233,7 @@ http://200.80.230.123:8000/play/a07b/index.m3u8
 http://138.121.114.86:8000/play/a0d4/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://45.228.234.133:8000/playlist/tvg-logo/a03s.png" group-title="Entretenimiento", Sony Movies
-http://45.228.234.133:8000/play/a03s/index.m3u8
+http://138.121.114.86:8000/play/a09j/index.m3u8
 
 #EXTINF:-1 tvg-id="TCMSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TCM.png" audio-track="spa" group-title="Entretenimiento", TCM
 http://200.80.230.123:8000/play/a020/index.m3u8
