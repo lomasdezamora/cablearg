@@ -274,7 +274,7 @@ http://45.160.12.200:8008/play/090/index.m3u8
 http://190.60.37.154:45000/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/598px-Sony_Movies_Logo.svg.png" group-title="Entretenimiento", Sony Movies
-http://200.80.230.123:8000/play/a0b2/index.m3u8
+http://138.121.114.86:8000/play/a09j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entretenimiento", ID
 http://200.60.124.19:29000/play/a0d9/index.m3u8
