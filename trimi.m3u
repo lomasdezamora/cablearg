@@ -113,7 +113,7 @@ http://200.80.230.123:8000/play/a0aw/index.m3u8
 http://200.80.230.123:8000/play/a07b/index.m3u8
 
 #EXTINF:-1 tvg-id="Europa.Europa.(EE).ar" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/129-EuropaEuropa.png" group-title="Entretenimiento", Europa Europa
-http://200.80.230.123:8000/play/a06v/index.m3u8
+http://138.121.114.86:8000/play/a07t/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#cinemax-sur" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" audio-track="spa" group-title="Entretenimiento", Cinemax
 http://200.60.124.19:29000/play/a025/index.m3u8
