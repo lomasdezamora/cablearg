@@ -189,7 +189,7 @@ http://200.80.230.123:8000/play/a02w/index.m3u8
 http://190.60.37.154:45000/play/a045/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3Q4Kcrs1ArtiZ3dA4QCCFW/7872da4c0f5bcc4bd5ca0f95041d7f1d/59_StudioUniversal.png?fm=webp&q=80" group-title="Entretenimiento" , STUDIO UNIVERSAL
-http://160.20.165.246:8000/play/a01c/index.m3u8
+http://38.252.213.12:8000/play/a05k
 
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Paramount.png" tvg-language="Spanish" group-title="Entretenimiento", Paramount Channel
 http://200.80.230.123:8000/play/a02y/index.m3u8
