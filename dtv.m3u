@@ -29,7 +29,8 @@ http://200.80.230.123:8000/play/a06e/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/9730866.jpg" group-title="Locales", CANAL LUZ
+https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2019/07/logo_7_1.png" group-title="Locales", El Siete Mendoza
 https://g4.proy-slo.transport.edge-access.net/a01/ngrp:canal7mendoza-100056_all/Playlist.m3u8?sense=true
@@ -57,9 +58,6 @@ https://smt-usr-edge02.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpp.lapampa.gob.ar/images/LOGOS_SITIO_CANAL.png" group-title="Locales", TV Publica Pampeana
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" group-title="Locales", Canal 8 San Juan
-https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@canal8sanjuan./live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=
 
 
 
