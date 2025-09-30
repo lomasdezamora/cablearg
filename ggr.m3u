@@ -46,12 +46,6 @@ http://201.217.246.177:8000/play/a02g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="locales" , CANAL DE LA CIUDAD
 http://190.104.67.135:234/play/a07c/index.m3u8
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Deportv.png" group-title="Deportes", Deportv  
 http://200.80.230.123:8000/play/a06h/index.m3u8
 
@@ -91,12 +85,6 @@ http://200.80.230.123:8000/play/a0bk/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="Deportes", TyC Sports
 http://200.80.230.123:8000/play/a02s/index.m3u8
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/pakapaka.png" group-title="Infantiles", Paka Paka
 http://138.121.114.86:8000/play/a05t/index.m3u8
 
@@ -123,12 +111,6 @@ http://200.80.230.123:8000/play/a0ay/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#nickelodeon-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Nickelodeon.png" audio-track="spa" group-title="Infantiles", Nickelodeon
 http://200.80.230.123:8000/play/a0b0/index.m3u8
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/69tV4QpbgqFdQoLLgzQxB1/3aff5e0e14c47a614e60fd4594f2f213/341-cine.ar.png?fm=webp&q=80" group-title="Entretenimiento" , CINE AR 
 http://200.80.230.123:8000/play/a024/index.m3u8
@@ -190,13 +172,6 @@ http://38.44.109.41:8003/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png" audio-track="spa" group-title="Varios", El Gourmet
 http://200.80.230.123:8000/play/a06w/index.m3u8
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2G4IHnfxSj2GwTRpmR53wy/7ee34ba27d8dab44e2dddd82b16aca9f/558-mtv_00s.png?fm=webp&q=80" group-title="Musica" , MTV 00's
 http://200.80.230.123:8000/play/a0ag/index.m3u8
 
@@ -209,8 +184,6 @@ http://200.80.230.123:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Musica", CM
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
-
-
 
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AnimalPlanet.png" audio-track="spa" group-title="Culturales", Animal Planet
 http://200.60.124.19:29000/play/a012/index.m3u8
@@ -227,25 +200,8 @@ http://200.80.230.123:8000/play/a0ai/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Natgeo.png" audio-track="spa" group-title="Culturales", National Geographic
 http://200.80.230.123:8000/play/a0b8/index.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="Internacionales", FRANCE 24 ESPAÑOL
 http://200.26.177.54:8000/play/a0hu/index.m3u8
-
 
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="Internacionales", CNN en Español
 http://200.80.230.123:8000/play/a0ax/index.m3u8
