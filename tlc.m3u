@@ -56,7 +56,7 @@ https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 http://201.217.246.177:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSLt6hRUX4fw0YfUUdHKjBz_moAzzwRHre_RJhF4HFyqsEKDD9ppxuRNkbK1m02rTWQRqPaZkLq7GoBZSylGJmIwDSvNaQhXntbhrbxK7uy9PeiA5ujNFllB1zrx6CSLXUywsjpm7hMgTSIvB2LMMeqx2Ytb3KV_Nqxm_v9aawEU3FMxuyCBC-Gpri/s392/eldestape-sinfino.png" group-title="Nacionales", El Destape TV 
-http://45.5.150.5:8887/play/a0t6/index.m3u8
+http://181.78.27.128:12543/play/a05i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="Nacionales", Canal E
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
@@ -67,8 +67,8 @@ http://200.121.48.17:8000/play/a08p/index.m3u8
 #EXTINF:-1  tvg-logo="https://fotos.perfil.com/2024/03/04/trim/1280/720/caras-tv-1764928.jpg" group-title="Nacionales", CARAS TV 
 https://unlimited2-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/j4t5hEoHBnlm_a7wiArlgkSYC7cU5W0gSPCWG3IWsu5zQrCuinV3PL57bFP8FVwKJEaR621ZXw=s160-c-k-c0x00ffffff-no-rj" group-title="Nacionales", Diputados TV 
-http://200.121.48.17:8000/play/a14m/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_Diputados_TV.png/960px-Logo_Diputados_TV.png" group-title="Nacionales", Diputados TV 
+http://200.106.13.204:8000/play/a0cu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="Nacionales" , Canal de la Ciudad  
 http://200.80.230.123:8000/play/a06e/index.m3u8
