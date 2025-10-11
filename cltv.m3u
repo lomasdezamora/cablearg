@@ -329,7 +329,7 @@ http://200.80.230.123:8000/play/a031/index.m3u8
 http://200.80.230.123:8000/play/a05g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3NsCKLtHpJcpAj6pL0prur/7200b9d1e8851a5d5327269cba3bfabb/94_History2.png?fm=webp&q=80" group-title="Culturales" , History 2 
-http://38.159.227.126:8000/play/a07k/index.m3u8
+http://181.13.252.102:8000/play/a0ab/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/32n20IZvi60FVhckqjnhrT/16696255515e884f71a729171f33895c/95_History.png?fm=webp&q=80" group-title="Culturales" , History  
 http://200.80.230.123:8000/play/a0ai/index.m3u8
